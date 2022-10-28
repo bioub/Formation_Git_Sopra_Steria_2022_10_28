@@ -1,4 +1,4 @@
-# Formation Git Basiques
+# Formation Git Basiques du 28/10/2022
 
 Formation Git Basiques Sopra Steria du 28/10/2022
 

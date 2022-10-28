@@ -14,3 +14,5 @@ Formation Git Basiques Sopra Steria du 28/10/2022
 
 - git branch
 - git switch
+- git checkout
+- git merge

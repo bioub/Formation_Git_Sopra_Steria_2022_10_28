@@ -9,3 +9,10 @@ Formation Git Basiques Sopra Steria du 28/10/2022
 - git add
 - git status
 - git commit
+
+## Les branches
+
+- git branch
+- git switch
+- git checkout
+- git merge
